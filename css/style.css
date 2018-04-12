@@ -1,0 +1,25 @@
+body {
+    margin: 0 auto;
+}
+
+.text-center h3 {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+#js-newGameButton {
+    margin: 20px 0;
+}
+
+#js-playerPickElement {
+    margin-top: 20px;
+}
+
+#js-resultsTableElement {
+    margin-top: 40px;
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
